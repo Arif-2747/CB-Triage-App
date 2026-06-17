@@ -1,0 +1,7 @@
+{
+  "name": "CB - TRIAGE",
+  "description": "A web application to display real-time patient health details, including vital signs and health metrics, with a simulated real-time data source.",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": []
+}
